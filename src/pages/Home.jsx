@@ -1,4 +1,3 @@
-import Hero from "../components/Hero";
 import FeaturedCourses from "../components/FeaturedCourses";
 import StatsSection from "../components/StatsSection";
 import YoutubeSection from "../components/YoutubeSection";
@@ -10,7 +9,7 @@ import InstructorSection from "../components/instructor/InstructorSection";
 import FaqSection from "../components/faq/FaqSection";
 import ChannelsSection from "../components/channels/ChannelsSection";
 import CTASection from "../components/cta/CTASection";
-
+import Hero from "../components/home/hero/Hero";
 
 function Home() {
   return (
